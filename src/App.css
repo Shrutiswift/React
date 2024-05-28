@@ -1,12 +1,11 @@
 /* title of App */
 .navbar-brand {
-    color: #170e0e;
     font-weight: 400px;
     font-size: 35px;
+    color: white;
 }
 
 .container {
-    color: rgb(12, 41, 18);
     margin-bottom: 10px;
 }
 
